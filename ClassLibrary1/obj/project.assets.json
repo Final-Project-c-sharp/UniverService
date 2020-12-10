@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Univer\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "D:\\Programming\\UniverGit\\UniverService\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "D:\\Programming\\Univer\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "D:\\Programming\\UniverGit\\UniverService\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\Даня\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Univer\\ClassLibrary1\\obj\\",
+      "outputPath": "D:\\Programming\\UniverGit\\UniverService\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

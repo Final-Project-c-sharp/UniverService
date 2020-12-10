@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Univer\\ManagerModule\\ManagerModule.csproj",
+      "projectUniqueName": "D:\\Programming\\UniverGit\\UniverService\\ManagerModule\\ManagerModule.csproj",
       "projectName": "ManagerModule",
-      "projectPath": "D:\\Programming\\Univer\\ManagerModule\\ManagerModule.csproj",
+      "projectPath": "D:\\Programming\\UniverGit\\UniverService\\ManagerModule\\ManagerModule.csproj",
       "packagesPath": "C:\\Users\\Даня\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\Univer\\ManagerModule\\obj\\",
+      "outputPath": "D:\\Programming\\UniverGit\\UniverService\\ManagerModule\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

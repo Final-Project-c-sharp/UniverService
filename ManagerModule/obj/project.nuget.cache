@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZrECqeQPXLyQ0MfsBz1qq18EMvE07OwNbH5rjGWptzxzGJawnE3AV6T6ma2oNTcRmNfQ0qC5y+Ulc/DypyDqow==",
+  "dgSpecHash": "U4bjr0pOnX5amfqX3eFJ9h5mEAkH2yzZgHPaePlO+HLGRl6lcGcKCZHi5G+yo1L6YLZSmsGXoOXc2PpoekjcAg==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Univer\\ManagerModule\\ManagerModule.csproj",
+  "projectFilePath": "D:\\Programming\\UniverGit\\UniverService\\ManagerModule\\ManagerModule.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

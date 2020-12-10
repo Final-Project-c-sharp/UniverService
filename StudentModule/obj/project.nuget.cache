@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSNAjR0XJvJ1t+Rc4bfecrtuHTciZmRBXTZvYEvRp33cKOUgGc4GbiS6UI2CHqxsqr5+s7tLJp4oewyvZ6EaOQ==",
+  "dgSpecHash": "Pwn0Ua4wA02Z3T6u0JJmIn/CrywjyOCknfdzSmD4deUhre/vBwQiVYwC31Tn/LR/UdIlyElytqo+AVh8oABgpQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Univer\\StudentModule\\StudentModule.csproj",
+  "projectFilePath": "D:\\Programming\\UniverGit\\UniverService\\StudentModule\\StudentModule.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

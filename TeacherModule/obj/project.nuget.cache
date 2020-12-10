@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nv5EOyjANBqKsHy3xAwc8508k6h39Wl0h0gVsem+1pjWOXhpMEExLT0eNGnUmsGVG0mau+i9JI1H8MUVFByNrQ==",
+  "dgSpecHash": "H6Z0oKmuNWvbaRil9qITZXnPb0lu0ryApnTsUkK/kT/ZJcmRnu8rrfyVJZ2Yvagx0GHHaqsutMlle/tHbDehyQ==",
   "success": true,
-  "projectFilePath": "D:\\Programming\\Univer\\TeacherModule\\TeacherModule.csproj",
+  "projectFilePath": "D:\\Programming\\UniverGit\\UniverService\\TeacherModule\\TeacherModule.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
